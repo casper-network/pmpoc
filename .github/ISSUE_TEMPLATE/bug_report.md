@@ -1,7 +1,6 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG] "
 labels: 'bug'
 assignees: ''
 
@@ -30,4 +29,6 @@ Add any other context about the problem here.
 
 
 **Defect Type**
-Whether Regression, New or Escape.
+- [ ] Regression
+- [ ] New
+- [ ] Escape
